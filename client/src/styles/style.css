@@ -1,0 +1,12 @@
+body {
+  color: #282c34;
+  background-color: white;
+  padding: 40px;
+  font-family: Arial;
+  text-align: center;
+}
+
+.Test {
+  border-style: solid;
+  background-color: red;
+}
